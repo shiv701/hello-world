@@ -1,2 +1,2 @@
 # hello-world
-Just anoter respiratory
+Just anoter repository
